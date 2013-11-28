@@ -81,3 +81,7 @@ result: [String] Readble date of video publish
 parameters:
 
 * $format : string for date format
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/OpenCode/youtube-php/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
